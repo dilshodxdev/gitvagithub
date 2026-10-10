@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+      <nav>navigation</nav>
       <h1>Bu yozuvni PM yozdi</h1>
       <h1>Bu yozuvni boshqa dasturchi yozdi</h1>
     </>
